@@ -99,33 +99,33 @@ translate portuguese start_a928eb9b:
 translate portuguese start_95634147:
     nar "Se não é um sonho, por que ainda estou tratando essa mulher como se ela fosse a Amber?"
 translate portuguese start_760450e7:
-    nar ""
+    nar "Eu deveria ligar para a polícia. Talvez ela seja alguém que precise de ajuda psiquiátrica ou talvez seja uma mulher aleatória me sacaneando."
 translate portuguese start_f0eadb95:
-    nar ""
+    nar "Mas o que devo dizer, que uma mulher aleatória com orelhas de gato e uma cauda está fingindo ser minha gata?"
 translate portuguese start_a47f354f:
-    prot ""
+    prot "Quem é você?"
 translate portuguese start_966a6b0a:
-    amb ""
+    amb "..."
 translate portuguese start_46686ec2:
-    prot ""
+    prot "Por que essa coleira-"
 translate portuguese start_8f6f23d2:
-    nar ""
+    nar "Eu senti uma sensação macia e fofa enquanto brincava com a orelha dela."
 translate portuguese start_36942e0d:
-    nar ""
+    nar "A pelagem tem o mesmo tom e padrão que o da Amber."
 translate portuguese start_3ec68f47:
-    nar ""
+    nar "Também é ligeiramente quente."
 translate portuguese start_c5cd1ff3:
-    nar ""
+    nar "É uma orelha de verdade!"
 translate portuguese start_da34215e:
-    nar ""
+    nar "Não tem emenda nenhuma. É dela mesmo."
 translate portuguese start_3ba7b7b0:
-    prot ""
+    prot "Isso é realmente o seu-"
 translate portuguese start_afa6252b:
-    nar ""
+    nar "É muita informação para processar. Eu preciso limpar minha mente."
 translate portuguese start_5d41788c:
-    prot ""
+    prot "Você fica aqui."
 translate portuguese start_c43d37fa:
-    nar ""
+    nar "O que está acontecendo? Aquilo era uma orelha de gato de verdade."
 translate portuguese start_d5c8e2c1:
     nar ""
 translate portuguese start_5c6b3aa2:
