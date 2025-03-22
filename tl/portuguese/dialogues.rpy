@@ -27,35 +27,35 @@ translate portuguese start_1ec2e18d:
 translate portuguese start_650a35e3:
     nar "Eu esperava ouvir o corre-corre e o chocalhar habituais que precedem Amber. Mas a pancada forte e o som de um arrastar pesado me assustaram."
 translate portuguese start_36634e17:
-    prot ""
+    prot "Mas o que-"
 translate portuguese start_69b2ccea:
-    nar ""
+    nar "Estou paralisado pelo choque e confusão. Minha mente está a mil tentando entender o que estou vendo."
 translate portuguese start_b22ee1b4:
-    prot ""
+    prot "Quem é você?!"
 translate portuguese start_c0582b8d:
-    prot ""
+    prot "O que você está fazendo?!"
 translate portuguese start_40632123:
-    unk ""
+    unk "*Crunch*"
 translate portuguese start_e2337870:
-    prot ""
+    prot "Ei!"
 translate portuguese start_c0582b8d_1:
-    prot ""
+    prot "O que você está fazendo?!"
 translate portuguese start_401765bd:
-    nar ""
+    nar "Minha voz saiu nítida e com autoridade, apesar dos meus nervos à flor da pele, mas fui ignorado."
 translate portuguese start_17765912:
-    nar ""
+    nar "Uma parte profunda de mim lembra que Amber não gosta de ser incomodada enquanto come."
 translate portuguese start_b0a91a3c:
-    nar ""
+    nar "Mas isso não é a Amber. Isso nem é um gato!"
 translate portuguese start_52c6687d:
-    unk ""
+    unk "Miau."
 translate portuguese start_a2a9d2d8:
-    nar ""
+    nar "A natureza absurda do que estava acontecendo me deixou sem reação."
 translate portuguese start_36e9c0ee:
-    nar ""
+    nar "Lentamente, minha surpresa e confusão passaram."
 translate portuguese start_f55251cb:
-    nar ""
+    nar "Só agora consigo processar o fato de que ela tem um par de orelhas fofas."
 translate portuguese start_a0881e65:
-    nar ""
+    nar "Quem é ela? isso é uma cauda?"
 translate portuguese start_fdc090f9:
     nar ""
 translate portuguese start_a6bc2520:
