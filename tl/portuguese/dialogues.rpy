@@ -57,45 +57,45 @@ translate portuguese start_f55251cb:
 translate portuguese start_a0881e65:
     nar "Quem é ela? isso é uma cauda?"
 translate portuguese start_fdc090f9:
-    nar ""
+    nar "Um estranho pensamento, vindo direto do meu coração, cruzou minha mente."
 translate portuguese start_a6bc2520:
-    prot ""
+    prot "Amber?"
 translate portuguese start_448a5bf9:
-    unk ""
+    unk "*Miau*"
 translate portuguese start_21859c90:
-    nar ""
+    nar "Eu posso identificar esse miado entre um milhão de gatos diferentes. Como uma pessoa pode fazer esse som?"
 translate portuguese start_914d17c5:
-    prot ""
+    prot "Amber, é você?"
 translate portuguese start_45a85223:
-    nar ""
+    nar "Essa é a mesma coleira que Amber tinha quando ela apareceu naquele dia."
 translate portuguese start_0444aaaf:
-    nar ""
+    nar "Houve um barulho alto de batidas na minha varanda da frente. Foi estranho, já que a chuva não abafou o som."
 translate portuguese start_050acb2c:
-    nar ""
+    nar "Eu tinha certeza de que tinha trancado o portão da frente. É um mistério como alguém colocou a caixa ali."
 translate portuguese start_8fdf861d:
-    amb ""
+    amb "*Miau*"
 translate portuguese start_64faf9e2:
-    nar ""
+    nar "Procurei pelo dono dela por toda parte e até postei uma foto dela pela cidade toda, sem sucesso."
 translate portuguese start_ae35f7b3:
-    nar ""
+    nar "Meus esforços começaram a diminuir à medida que fui me acostumando com a presença da Amber."
 translate portuguese start_3f346ee8:
-    nar ""
+    nar "Depois de um mês, eu considerei ela oficialmente parte da minha casa."
 translate portuguese start_76b3b8d6:
-    prot ""
+    prot "!!!"
 translate portuguese start_745fda0b:
-    nar ""
+    nar "Tão rápido!"
 translate portuguese start_8fdf861d_1:
-    amb ""
+    amb "*Miau*"
 translate portuguese start_43b2bbdc:
-    prot ""
+    prot "..."
 translate portuguese start_c3452f9a:
-    prot ""
+    prot "Você quer isso?"
 translate portuguese start_464195ae:
-    nar ""
+    nar "Por que isso parece a coleira da Amber? Por que está nela? Por que é tão grande?"
 translate portuguese start_2ead99d6:
-    nar ""
+    nar "Minhas tentativas de formular uma pergunta só serviram para gerar ainda mais perguntas."
 translate portuguese start_a928eb9b:
-    nar ""
+    nar "Se não fosse pela suavidade e calor da pele dela, eu teria atribuído tudo a um sonho vívido."
 translate portuguese start_95634147:
     nar "Se não é um sonho, por que ainda estou tratando essa mulher como se ela fosse a Amber?"
 translate portuguese start_760450e7:
