@@ -1,31 +1,31 @@
 ﻿translate portuguese start_a0cb53fc:
-    prot ""
+    prot "Hmmmpf."
 translate portuguese start_2c097814:
-    nar ""
+    nar "Já se passaram trinta minutos desde que o alarme disparou. Mesmo sendo domingo, ainda mantenho ele ligado."
 translate portuguese start_8a5cbb3f:
-    nar ""
+    nar "Há uma certa satisfação em finalmente ser capaz de apenas voltar a dormir após o alarme tocar."
 translate portuguese start_f4aa438c:
-    nar ""
+    nar "Ainda estou cheio de energia, apesar do meu sono ter sido perturbado ontem à noite."
 translate portuguese start_9a7db0ff:
-    nar ""
+    nar "Amber me acordou novamente. Tinha meses que ela não fazia isso."
 translate portuguese start_c3ede037:
-    nar ""
+    nar "O brilho habitual dos olhos dela parecia estranho, de algum modo. Eram grandes demais."
 translate portuguese start_a19f5629:
-    nar ""
+    nar "Nah."
 translate portuguese start_bf2bb66f:
-    nar ""
+    nar "Tenho trabalhado demais ultimamente. Isso deve estar afetando minha saúde mental."
 translate portuguese start_dd5c9a11:
-    nar ""
+    nar "Domingos merecem um bom mimo."
 translate portuguese start_3efe6cf9:
-    nar ""
+    nar "Eu sempre dou a ela algo diferente da ração de gato usual. O especial de hoje é atum enlatado."
 translate portuguese start_5127a2a0:
-    prot ""
+    prot "Pss, pss, pss."
 translate portuguese start_5e84f7aa:
-    prot ""
+    prot "Aaammmbeeeer."
 translate portuguese start_1ec2e18d:
-    prot ""
+    prot "A comida está pronta."
 translate portuguese start_650a35e3:
-    nar ""
+    nar "Eu esperava ouvir o corre-corre e o chocalhar habituais que precedem Amber. Mas a pancada forte e o som de um arrastar pesado me assustaram."
 translate portuguese start_36634e17:
     prot ""
 translate portuguese start_69b2ccea:
@@ -97,7 +97,7 @@ translate portuguese start_2ead99d6:
 translate portuguese start_a928eb9b:
     nar ""
 translate portuguese start_95634147:
-    nar ""
+    nar "Se não é um sonho, por que ainda estou tratando essa mulher como se ela fosse a Amber?"
 translate portuguese start_760450e7:
     nar ""
 translate portuguese start_f0eadb95:
@@ -161,7 +161,7 @@ translate portuguese start_8fdf861d_3:
 translate portuguese start_43b2bbdc_2:
     prot ""
 translate portuguese start_b935467c:
-    prot ""
+    prot "É bem difícil tomar um banho relaxante quando há alguém encarando você."
 translate portuguese start_966a6b0a_1:
     amb ""
 translate portuguese start_43b2bbdc_3:
@@ -397,7 +397,7 @@ translate portuguese start_04d75f85:
 translate portuguese start_b67898e2:
     amb ""
 translate portuguese start_dd65679e:
-    prot ""
+    prot "OK. Agora, qual é a maneira de correta de falar isso?"
 translate portuguese start_966a6b0a_12:
     amb ""
 translate portuguese start_fd633866:
@@ -551,7 +551,7 @@ translate portuguese start_09c8c386:
 translate portuguese start_fc774b53:
     prot ""
 translate portuguese start_e5a52e40:
-    nar ""
+    nar "Talvez eu devesse me fazer de bobo e distrair ela com outra coisa."
 translate portuguese start_61aec9c1:
     nar ""
 translate portuguese start_e31205ec:
