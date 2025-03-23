@@ -127,39 +127,39 @@ translate portuguese start_5d41788c:
 translate portuguese start_c43d37fa:
     nar "O que está acontecendo? Aquilo era uma orelha de gato de verdade."
 translate portuguese start_d5c8e2c1:
-    nar ""
+    nar "Isso é uma condição genética?"
 translate portuguese start_5c6b3aa2:
-    nar ""
+    nar "Aquilo era uma mulher-felina geneticamente modificada?"
 translate portuguese start_2687748d:
-    nar ""
+    nar "Isso existe mesmo?"
 translate portuguese start_5d919be5:
-    nar ""
+    nar "Mulher-felina?"
 translate portuguese start_2382696a:
-    nar ""
+    nar "Estava vindo um barulho alto de arranhões do outro lado."
 translate portuguese start_99680a6a:
-    nar ""
+    nar "Ela sempre me seguiu até o banheiro, mas eu nunca achei estranho."
 translate portuguese start_dd967979:
-    nar ""
+    nar "Parecia um comportamento normal de um gato."
 translate portuguese start_2a75d86d:
-    nar ""
+    nar "Mas agora-"
 translate portuguese start_900bef20:
-    prot ""
+    prot "Ei, para com isso."
 translate portuguese start_43b2bbdc_1:
-    prot ""
+    prot "..."
 translate portuguese start_1fac2ff7:
-    prot ""
+    prot "Você vai arranhar a pintura da porta, você-"
 translate portuguese start_8fdf861d_2:
-    amb ""
+    amb "*Miau*"
 translate portuguese start_bed9c3d3:
-    nar ""
+    nar "Agora que me lembrei. É por isso que comecei a permitir que ela entrasse no banheiro."
 translate portuguese start_76d51bab:
-    prot ""
+    prot "Pare com isso, eu vou abrir."
 translate portuguese start_26e3d988:
-    prot ""
+    prot "Feliz agora?"
 translate portuguese start_8fdf861d_3:
-    amb ""
+    amb "*Miau*"
 translate portuguese start_43b2bbdc_2:
-    prot ""
+    prot "..."
 translate portuguese start_b935467c:
     prot "É bem difícil tomar um banho relaxante quando há alguém encarando você."
 translate portuguese start_966a6b0a_1:
