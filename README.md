@@ -5,8 +5,9 @@
 </a>
 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://img.shields.io/badge/Licenciada%20sob%20CC%20BY--NC--SA%204.0-000000?style=for-the-badge&logo=creativecommons&logoColor=white" alt="Licenciada sob CC BY-NC-SA 4.0"/></a>
 
-<h3 align="center">Em desenvolvimento para a versão</h3>
+<h3 align="center">Em desenvolvimento para as versões</h3>
 <a href="../pt1"><img src="https://img.shields.io/badge/Pt1-000000?style=for-the-badge&logo=git&logoColor=white" alt="Pt1"/></a>
+<a href="../pt1-sxp1"><img src="https://img.shields.io/badge/Pt1--Sxp1-000000?style=for-the-badge&logo=git&logoColor=white" alt="Pt1-Sxp1"/></a>
 
 <h3 align="center">Sobre o jogo</h3>
 <a href="https://pureharem.itch.io/my-cat-girl-harem"><img src="https://img.shields.io/badge/Disponível%20na%20itch.io-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" alt="Disponível na itch.io"/></a>
