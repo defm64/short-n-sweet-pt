@@ -1,10 +1,14 @@
 .vscode/
 audio/
 cache/
-gui/
+/gui/
 images/
 saves/
 tl/None/
+tl/portuguese/gui/pgs1.png
+tl/portuguese/gui/PGS2.png
+tl/portuguese/gui/TS1.png
+tl/portuguese/gui/TS2.png
 /BIZ-UDMinchoM.ttc
 /gallery.rpy
 /gui.rpy
