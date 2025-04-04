@@ -306,7 +306,7 @@ translate portuguese strings:
     old "Load"
     new "Carregar"
     old "Preferences"
-    new "Preferências"
+    new "Configurações"
     old "Gallery"
     new "Galeria"
     old "About"
