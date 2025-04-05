@@ -525,3 +525,5 @@ translate portuguese strings:
     new "Me mande para o Patreon."
     old "Credits"
     new "Créditos"
+    old "What will you be refered as?"
+    new "Como você vai se chamar?"
