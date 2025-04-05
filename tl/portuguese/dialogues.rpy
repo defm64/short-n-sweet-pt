@@ -163,41 +163,41 @@ translate portuguese start_43b2bbdc_2:
 translate portuguese start_b935467c:
     prot "É bem difícil tomar um banho relaxante quando há alguém encarando você."
 translate portuguese start_966a6b0a_1:
-    amb ""
+    amb "..."
 translate portuguese start_43b2bbdc_3:
-    prot ""
+    prot "..."
 translate portuguese start_62917185:
-    prot ""
+    prot "Então..."
 translate portuguese start_bd17fa9e:
-    prot ""
+    prot "Aquela cauda. É real também?"
 translate portuguese start_966a6b0a_2:
-    amb ""
+    amb "..."
 translate portuguese start_5fd368e6:
-    prot ""
+    prot "Deve ser."
 translate portuguese start_8fdf861d_4:
-    amb ""
+    amb "*Miau*"
 translate portuguese start_6accc69f:
-    prot ""
+    prot "Você consegue dizer algo além dos miados?"
 translate portuguese start_966a6b0a_3:
-    amb ""
+    amb "..."
 translate portuguese start_43b2bbdc_4:
-    prot ""
+    prot "..."
 translate portuguese start_cc588189:
-    prot ""
+    prot "Você poderia pelo menos vestir algo, sabe."
 translate portuguese start_85beec78:
-    prot ""
+    prot "Aqui pode ficar muito frio."
 translate portuguese start_579ff2d4:
-    prot ""
+    prot "Eu tenho certeza que você ficaria bem em um vestido."
 translate portuguese start_e8e4ca59:
-    prot ""
+    prot "Talvez um material elástico fosse melhor."
 translate portuguese start_966a6b0a_4:
-    amb ""
+    amb "..."
 translate portuguese start_a5fd4428:
-    prot ""
+    prot "Calças de yoga, talvez?"
 translate portuguese start_966a6b0a_5:
-    amb ""
+    amb "..."
 translate portuguese start_713f5614:
-    prot ""
+    prot "Não fala muito, hein?"
 translate portuguese start_036838db:
     prot ""
 translate portuguese start_966a6b0a_6:
