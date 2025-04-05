@@ -302,7 +302,7 @@ translate portuguese strings:
     old "Q.Load"
     new "Carregar Rápido"
     old "Prefs"
-    new "Preferências"
+    new "Configurações"
     old "Load"
     new "Carregar"
     old "Preferences"
