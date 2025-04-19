@@ -199,25 +199,25 @@ translate portuguese start_966a6b0a_5:
 translate portuguese start_713f5614:
     prot "Não fala muito, hein?"
 translate portuguese start_036838db:
-    prot ""
+    prot "Vou te arrumar algo assim que eu terminar aqui. Certo?"
 translate portuguese start_966a6b0a_6:
-    amb ""
+    amb "..."
 translate portuguese start_79a4e3de:
-    prot ""
+    prot "Eu preciso me levantar. Você pode sair?"
 translate portuguese start_966a6b0a_7:
-    amb ""
+    amb "..."
 translate portuguese start_fa1d27cb:
-    prot ""
+    prot "Você pode pelo menos se virar?"
 translate portuguese start_966a6b0a_8:
-    amb ""
+    amb "..."
 translate portuguese start_43b2bbdc_5:
-    prot ""
+    prot "..."
 translate portuguese start_62fee2d6:
-    nar ""
+    nar "Depois de perder algum tempo tentando colocar algumas roupas nela, eu simplesmente desisti."
 translate portuguese start_962a7740:
-    nar ""
+    nar "Toda vez ela simplesmente fugia, e quando eu conseguia colocar uma das minhas camisas nela, ela quase a rasgava."
 translate portuguese start_ec458794:
-    nar ""
+    nar "Todos os comportamentos dela parecem combinar com a Amber que eu conheço."
 translate portuguese start_81feab83:
     nar ""
 translate portuguese start_44629e0a:
